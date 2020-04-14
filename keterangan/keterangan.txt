@@ -1,0 +1,4 @@
+Project Green Screen Photo Booth Sinarmas Land
+
+username: admin
+password: admin
